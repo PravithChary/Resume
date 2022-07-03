@@ -7,7 +7,6 @@ An open web page almost similar to a resume but with a contact form at the last.
 
 It consists of various features described below!
 
-
 > This is the first project which fascinated me alot to do.
 ___
 
@@ -17,7 +16,7 @@ I've used `HTML` and `CSS` to do build this project.
 
 ***
 
-## Here is a brief demo ( __YouTube video__ ) of my project. Click on it to have a glance at it.
+## Here is a brief demo (YouTube video) of my project. Click on it to have a glance at it.
 [![YouTube Video](https://user-images.githubusercontent.com/84093681/177038974-7ddba1d7-2727-4153-9121-9ba66c1a939a.png)](https://youtu.be/KbYRvV_OGmE)
 
 ---
@@ -59,20 +58,39 @@ I've included input types as `text` , `email` and `textarea` in the form.
 
 <img width="1000" alt="form" src="https://user-images.githubusercontent.com/84093681/177039074-255ac4ca-113d-40fa-b4a3-6c80fb60550b.png">
 
-4. The background image in the header column doesn't move as shown below
-
-https://user-images.githubusercontent.com/84093681/177039091-f75694a6-3d08-4d46-9017-1fe7f5dfaaf1.mov
-
-5. 
+4. This is the page to which we will be directed.
 
 <img width="1000" alt="final" src="https://user-images.githubusercontent.com/84093681/177039536-fd115792-646d-4bea-9726-5bfee4482464.png">
 
 
+5. The background image in the header column doesn't move as shown below
 
+https://user-images.githubusercontent.com/84093681/177039091-f75694a6-3d08-4d46-9017-1fe7f5dfaaf1.mov
+
+> The following `CSS` code (fixed background-attachment) has been used for the header background image
+
+```CSS
+background-attachment: fixed;
+```
+
+> The following `CSS` code (negative margin-top) has been used for my profile photo which is included in the first section of the main division.
+
+```CSS
+margin-top: -17vh;
+```
+
+6. `Transitions & Box Shadows` while moving the cursor onto the image.
 
 https://user-images.githubusercontent.com/84093681/177039736-bb73e2c3-9a17-42e0-9740-990aeebe91f9.mov
 
+7. `Flex` is used
 
 
+[Click here to view it](https://github.com/PravithChary/Resume/blob/main/flex.mov)
+
+And many more such features are included.
 
 
+I'm ready to explore many more such features and try to implement them. And learn more.
+
+`Thank You`
