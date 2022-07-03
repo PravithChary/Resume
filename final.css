@@ -1,0 +1,33 @@
+body
+{
+    font-family: 'Itim', cursive;
+    background: #011627;
+    color: white;
+    text-align: center;
+    border: 40px solid #00baf2;
+    border-top: 0px;
+}
+ 
+p
+{
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+ 
+form
+{
+    font-size: 1.5em;
+    margin-bottom: 13px;
+}
+ 
+#submit
+{
+    background: #e6ac19;
+    height: 60px;
+    width: 150px;
+    font-size: 1em;
+    margin: 4px;
+    margin-top: 12px;
+    border-radius: 10px;
+}
