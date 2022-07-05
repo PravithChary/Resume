@@ -5,6 +5,9 @@
 An open web page almost similar to a resume but with a contact form at the last.
 
 
+It includes My Personal details, Skills obtained, Work Experience, Educational Qualifications, Technical Skills and My Contact Details.
+
+
 It consists of various features described below!
 
 > This is the first project which fascinated me alot to do.
